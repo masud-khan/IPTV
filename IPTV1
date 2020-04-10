@@ -1,4 +1,6 @@
 #EXTM3U
 #EXTINF:-1
 http://10.16.100.203:8082/bangla/asian.m3u8
+#EXTINF:-1
+http://10.16.100.241/exthls/GAZITV.m3u8
 
