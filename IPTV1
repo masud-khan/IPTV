@@ -2,5 +2,14 @@
 #EXTINF:-1
 http://10.16.100.203:8082/bangla/asian.m3u8
 #EXTINF:-1
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+#EXTINF:-1
+http://10.16.100.203:8082/bangla/banglatv_hd.m3u8
+#EXTINF:-1
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+#EXTINF:-1
 http://10.16.100.241/exthls/GAZITV.m3u8
+#EXTINF:-1
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+#EXTINF:-1
 
