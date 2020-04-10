@@ -1,1 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/31.jpg" group-title="BANGLA",Gazi TV
 http://10.16.100.203:8082/bangla/asian.m3u
+
