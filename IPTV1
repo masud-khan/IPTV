@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Gazi TV"
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN TV"
 http://10.16.100.203:8082/bangla/asian.m3u8
 #EXTINF:-1
 http://10.16.100.203:8082/bangla/atnbangla.m3u8
