@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo=" http://10.16.100.244/files/asiantv.png"	group-title="BANGLA",ASIAN TV         
 http://10.16.100.203:8082/bangla/asian.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="http://10.16.100.244/files/atnbangla.png" group-title="BANGLA",ATN Bangla
