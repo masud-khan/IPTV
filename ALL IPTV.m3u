@@ -1,56 +1,70 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo=" http://10.16.100.244/files/asiantv.png"	group-title="BANGLA",ASIAN TV         
-http://10.16.100.203:8082/bangla/asian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="http://10.16.100.244/files/atnbangla.png" group-title="BANGLA",ATN Bangla
-http://10.16.100.203:8082/bangla/atnbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bangla TV" tvg-logo="http://10.16.100.244/files/banglatv.png" group-title="BANGLA",Bangla TV
-http://10.16.100.203:8082/bangla/banglatv_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Banglavision TV" tvg-logo="http://10.16.100.244/files/banglavision.png" group-title="BANGLA",Banglavision TV
-http://10.16.100.203:8082/bangla/vision_bangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bijoy TV" tvg-logo="http://10.16.100.244/files/bijoytv(1).png" group-title="BANGLA",Bijoy TV
-http://10.16.100.203:8082/bangla/bijoytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="http://10.16.100.244/files/boishakhi(1).png" group-title="BANGLA",Boishakhi TV
-http://10.16.100.203:8082/bangla/boisakhi.m3u8s
-#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="http://10.16.100.244/files/channel24.png" group-title="BANGLA",Channel 24
-http://10.16.100.203:8082/bangla/channel24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="http://10.16.100.244/files/channeli.png" group-title="BANGLA",Channel I
-http://10.16.100.203:8082/bangla/i_Channel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="http://10.16.100.244/files/channel9(5).png" group-title="BANGLA",Channel 9
-http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo="http://10.16.100.244/files/dbcnews(1).png" group-title="BANGLA",DBC News
-http://10.16.100.203:8082/bangla/dbcnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="http://10.16.100.244/files/deeptotv.png" group-title="BANGLA",Deepto TV
-http://10.16.100.203:8082/bangla/deeptotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="http://10.16.100.244/files/deshtv(1).png" group-title="BANGLA",Desh TV
-http://10.16.100.203:8082/bangla/desh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIGI Bangla TV" tvg-logo="http://10.16.100.244/files/digibangla24.png" group-title="BANGLA",DIGI Bangla TV
-http://10.16.100.203:8082/bangla/digibangla24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV" tvg-logo="http://10.16.100.244/files/ekusheytv(1).png" group-title="BANGLA",Ekattor TV
-http://10.16.100.203:8082/bangla/ekatoortv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="http://10.16.100.244/files/ekusheytv(1).png" group-title="BANGLA",Ekushey TV
-http://10.16.100.203:8082/bangla/ekusheytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="http://10.16.100.244/files/gazitv.png" group-title="BANGLA",Gazi TV
-http://10.16.100.241/exthls/GAZITV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="http://10.16.100.244/files/independent(1).png" group-title="BANGLA",Independent TV
-http://10.16.100.203:8082/bangla/news_independent.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="http://10.16.100.244/files/jamuna.png" group-title="BANGLA",Jamuna TV
-http://10.16.100.203:8082/bangla/jamuna_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAASRANGA TV" tvg-logo="http://10.16.100.244/files/maasranga.png" group-title="BANGLA",Maasranga TV
-http://10.16.100.203:8082/bangla/MAASRANGATV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="http://10.16.100.244/files/mohona(3).png" group-title="BANGLA",Mohona TV
-http://10.16.100.203:8082/bangla/mohonatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="My Tv" tvg-logo="http://10.16.100.244/files/mytv.jpg" group-title="BANGLA",My Tv
-http://10.16.100.203:8082/bangla/mytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="http://10.16.100.244/files/ntv(1).png" group-title="BANGLA",NTV
-http://10.16.100.203:8082/bangla/ntv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="http://10.16.100.244/files/nagorik.png" group-title="BANGLA",Nagorik TV
-http://10.16.100.203:8082/bangla/nagorik.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News24" tvg-logo="http://10.16.100.244/files/news24(1).png" group-title="BANGLA",News24
-http://10.16.100.203:8082/bangla/24newshd_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="R TV" tvg-logo="http://10.16.100.244/files/rtv.png" group-title="BANGLA",R TV
-http://10.16.100.203:8082/bangla/rtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="http://10.16.100.244/files/somoy(1).png" group-title="BANGLA",Somoy TV
-http://10.16.100.203:8082/bangla/somoy.m3u8
+http://tv.ebox.live:8080/live/star-jalsha-movies.m3u8
+http://tv.ebox.live:8080/live/star-jalsha.m3u8
+http://tv.ebox.live:8080/live/sonyhd.m3u8
+http://tv.ebox.live:8080/live/zee-bangla.m3u8
+http://tv.ebox.live:8080/live/sonyten-2.m3u8
+http://tv.ebox.live:8080/live/sonyten-1.m3u8
+http://tv.ebox.live:8080/live/sonyten-3.m3u8
+http://tv.ebox.live:8080/live/sonysix.m3u8
+http://tv.ebox.live:8080/live/gazi-tv.m3u8
+http://tv.ebox.live:8080/live/banae3.m3u8
+http://tv.ebox.live:8080/live/atnbd1.m3u8
+http://tv.ebox.live:8080/live/chi.m3u8
+http://tv.ebox.live:8080/live/rtv.m3u8
+http://tv.ebox.live:8080/live/boishakhi.m3u8
+http://tv.ebox.live:8080/live/ekattor1.m3u8
+http://tv.ebox.live:8080/live/news24.m3u8
+http://tv.ebox.live:8080/live/dbc.m3u8
+http://tv.ebox.live:8080/live/ex-atnae.m3u8
+http://tv.ebox.live:8080/live/gan.m3u8
+http://tv.ebox.live:8080/live/maasranga.m3u8
+http://tv.ebox.live:8080/live/channel9.m3u8
+http://tv.ebox.live:8080/live/sonysix.m3u8
+http://tv.ebox.live:8080/live/sonyespn.m3u8
+http://tv.ebox.live:8080/live/sonyten-1.m3u8
+http://tv.ebox.live:8080/live/sonyten-2.m3u8
+http://tv.ebox.live:8080/live/sonyten-3.m3u8
+http://tv.ebox.live:8080/live/ten-sports.m3u8
+http://tv.ebox.live:8080/live/willow-cric.m3u8
+http://tv.ebox.live:8080/live/Sky-Sports-cric.m3u8
+http://tv.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+http://tv.ebox.live:8080/live/bein-sports-1.m3u8
+http://tv.ebox.live:8080/live/bein-sports-2.m3u8
+http://tv.ebox.live:8080/live/bein-sports-eng-11.m3u8
+http://tv.ebox.live:8080/live/bein-sports-fr-1.m3u8
+http://tv.ebox.live:8080/live/starsports-1.m3u8
+http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
+http://tv.ebox.live:8080/live/starsportshd-2.m3u8
+http://tv.ebox.live:8080/live/starsports-3.m3u8
+http://tv.ebox.live:8080/live/starsportsselect-1.m3u8
+http://tv.ebox.live:8080/live/starsportsselect-2.m3u8
+http://tv.ebox.live:8080/live/zee-bangla.m3u8
+http://tv.ebox.live:8080/live/star-jalsha.m3u8
+http://tv.ebox.live:8080/live/colors-bangla.m3u8
+http://tv.ebox.live:8080/live/zee-cinema-bangla.m3u8
+http://tv.ebox.live:8080/live/star-jalsha-movies.m3u8
+http://tv.ebox.live:8080/live/star-plus.m3u8
+http://tv.ebox.live:8080/live/zee-tv.m3u8
+http://tv.ebox.live:8080/live/sony-sab.m3u8
+http://tv.ebox.live:8080/live/star-gold.m3u8
+http://tv.ebox.live:8080/live/star-gold-select.m3u8
+http://tv.ebox.live:8080/live/zee-cinema.m3u8
+http://tv.ebox.live:8080/live/sony-max.m3u8
+http://tv.ebox.live:8080/live/sony-max-2.m3u8
+http://tv.ebox.live:8080/live/star-movies.m3u8
+http://tv.ebox.live:8080/live/sony-pix.m3u8
+http://tv.ebox.live:8080/live/hbo.m3u8
+http://tv.ebox.live:8080/live/discovery.m3u8
+http://tv.ebox.live:8080/live/animale-planet.m3u8
+http://tv.ebox.live:8080/live/natg.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SONYYAY" tvg-logo="http://10.16.100.244/files/sonyyay.png" group-title="CARTOON",SONYYAY
-http://10.16.100.207:8082/sports/SONYYAY.m3u8
+
+
+
+
+
+
+
+
+
+
