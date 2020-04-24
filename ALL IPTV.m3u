@@ -54,6 +54,9 @@ http://10.16.100.203:8082/bangla/somoy.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SONYY Y" tvg-logo="http://10.16.100.244/files/sonyyay.png" group-title="CARTOON",SONYY Y
 http://10.16.100.207:8082/sports/SONYYAY.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY AAT" tvg-logo="http://10.16.100.244/files/sonyaath(1).png" group-title="CARTOON",SONY AAT
+http://10.16.100.202:8080/tvs202/sony_8.m3u8
+
 #EXTINF:-1,Gazi tv
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,D sports
